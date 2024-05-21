@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpravljanjeInventaromVozila", "UpravljanjeInventaromVozila.csproj", "{72C35F52-2F7C-4B40-A5DE-8D0ED98C7F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C35F52-2F7C-4B40-A5DE-8D0ED98C7F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C35F52-2F7C-4B40-A5DE-8D0ED98C7F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C35F52-2F7C-4B40-A5DE-8D0ED98C7F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C35F52-2F7C-4B40-A5DE-8D0ED98C7F64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444928AD-89E2-45BC-B484-7C64B9DE3505}
+	EndGlobalSection
+EndGlobal
